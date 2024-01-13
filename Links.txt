@@ -1,0 +1,5 @@
+Link to transaction:
+https://goerli.etherscan.io/tx/0x8ab0836554d6e2cb0080426693c88b7b8a3d62bd3c7f1aa5a7d7548db5b37735
+
+Link to NFT:
+https://bafybeifawau3dan3ex2j4dzmkkmzrhq7hx3glujxepnl2tlbttaygfofiu.ipfs.nftstorage.link/
